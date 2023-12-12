@@ -1,2 +1,0 @@
-predictVegetable.h5 filter=lfs diff=lfs merge=lfs -text
-PredictPaperRockScissor.h5 filter=lfs diff=lfs merge=lfs -text
